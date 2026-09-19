@@ -227,4 +227,4 @@ PUBG Lite is available as a full free version with all features and updates incl
 Get ready to dive into the action! Download PUBG Lite today and enjoy the exhilarating battle royale experience on your Windows PC!
 
 ---
-**Last updated:** 2026-09-19 09:52:34 UTC
+**Last updated:** 2026-09-19 13:32:22 UTC
